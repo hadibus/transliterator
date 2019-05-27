@@ -1,2 +1,2 @@
 # transliterator
-Transliterator program built in C#
+Transliterator program built in Python
